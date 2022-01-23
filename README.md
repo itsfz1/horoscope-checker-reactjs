@@ -1,4 +1,4 @@
-## Horoscope Checker
+# Horoscope Checker
 
 # This is a simple horoscope checker app
 
