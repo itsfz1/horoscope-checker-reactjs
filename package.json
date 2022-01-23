@@ -1,5 +1,6 @@
 {
   "name": "horoscope-checker",
+  "homepage": "/projects/horoscope",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
